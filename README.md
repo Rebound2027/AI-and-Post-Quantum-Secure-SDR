@@ -1,4 +1,4 @@
-# Optimized-SDR-using-AI-and-ML-techniques
+# AI-and-Post-Quantum-Secure-SDR
 
 AI-Optimized Full-Duplex SDR Communication System
 
